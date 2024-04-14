@@ -1,2 +1,5 @@
-# quill-notes-app
-An app for Mac to write smart notes
+# Quill-Notes App
+An notes taking app for Mac users.
+
+## Download Mac Application
+Coming soon...
